@@ -223,5 +223,5 @@ window2:Button("AntiLag", function()
 end)
 
 window2:Button("Fly", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/JAHdqkG2"))()
+    loadstring(game:HttpGet("https://pastebin.com/JAHdqkG2"))()
 end)
